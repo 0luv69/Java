@@ -26,4 +26,5 @@ Till the date I have only done the My first project
    ```
 
 
-8.
+8. Using of Function, in pro way
+9. Learned about sending parameter as ArrayList and other.
