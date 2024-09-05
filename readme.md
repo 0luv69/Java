@@ -15,8 +15,12 @@ Sutdent_Management_System, using arraylist.
 4) I got to play with class and it parents class and other
 5) Learned about Try and Catch
 6) Learned the concept of Package, Public, Private more clearlly
-7) Learned about ``
+7) Learned about Override of Object string name, we can modify using the toString.`
+   ```
+   Eg:
 
-@Override
-
-publicStringtoString()`
+      @Override
+       publicStringtoString() {
+       return "New name here";
+       }
+   ```
